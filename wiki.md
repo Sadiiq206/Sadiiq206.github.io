@@ -21,13 +21,13 @@
 * Personalized trip itineraries based on individual preferences.
 * Emphasis on off-the-beaten-path exploration and hidden gems.
 
-## See also
-- [Washington State Tourism](https://stateofwatourism.com)
-- [Eco Tourism](https://harborwildwatch.org/resources/eco-tourism/)
-- [Port of Seattle](https://www.portseattle.org/page/washington-state-travel-recommendations)
+### See also
+- [**Washington State Tourism**](https://stateofwatourism.com)
+- [**Eco Tourism**](https://harborwildwatch.org/resources/eco-tourism/)
+- [**Port of Seattle**](https://www.portseattle.org/page/washington-state-travel-recommendations)
   
 
-## References
+### References
 1. [Reference 1](https://www.igismap.com/gis-for-travels-and-tourism/)
 2. [Reference 2](https://wisconsindot.gov/pages/doing-bus/mapsgis.aspx)
 3. [Reference 3](https://gisfortourism.wordpress.com)
